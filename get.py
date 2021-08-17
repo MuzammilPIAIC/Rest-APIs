@@ -1,6 +1,6 @@
 import requests
 
-url = 'http://rqangt.pythonanywhere.com/'
+url = 'your-api-link'
 fp = 'darkest.jpg'
 
 files = {'image': open(fp, 'rb')}
